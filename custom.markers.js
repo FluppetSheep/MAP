@@ -78,15 +78,7 @@ UnminedCustomMarkers = {
 
         // add your markers here
 
-        {
-            x: 200,
-            z: 200,
-            text: "Muppets test marker", 
-            textColor: "yellow", 
-            offsetX: 0,
-            offsetY: 0, 
-            font: "bold 50px Calibri,sans serif",
-        },
+
 
 
         // do not delete the following two closing brackets
