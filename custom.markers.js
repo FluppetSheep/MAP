@@ -104,7 +104,7 @@ UnminedCustomMarkers = {
             x: 38,
             z: 14,
             image: "Coyo.png",
-            imageAnchor: [0.5, 1],
+            imageAnchor: [0, 0],
             imageScale: 0.5,
  
         },
