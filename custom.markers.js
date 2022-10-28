@@ -38,48 +38,95 @@ Use the imageScale property if the pin image is too large.
 
 UnminedCustomMarkers = {
 
-    isEnabled: false,
+    isEnabled: true,
 
     markers: [
 
-        // Example 1: Simple marker
-        {
-            x: -200,
-            z: -200,
-            image: "custom.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-        },
 
-        // Example 2: Marker with text
-        {
-            x: 0,
-            z: 0,
-            image: "custom.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-            text: "Marker with text",
-            textColor: "red", 
-            offsetX: 0,
-            offsetY: 20,
-            font: "bold 20px Calibri,sans serif",
-        },
 
         // Example 3: Text only
         {
-            x: 200,
-            z: 200,
-            text: "Text only", 
-            textColor: "yellow", 
-            offsetX: 0,
-            offsetY: 0, 
-            font: "bold 50px Calibri,sans serif",
+            x: -21,
+            z: -83,
+            image: "Muppet.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
         },
 
-        // add your markers here
+        {
+            x: -260,
+            z: -55,
+            image: "Flam.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
+
+        {
+            x: 580,
+            z: -400,
+            image: "Badger.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
+
+        {
+            x: 740,
+            z: 83,
+            image: "Kyra.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
 
 
+        {
+            x: 1240,
+            z: -950,
+            image: "Flam.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
 
+        {
+            x: -1550,
+            z: 800,
+            image: "Lance.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
+
+        {
+            x: 38,
+            z: 14,
+            image: "Coyo.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
+
+        {
+            x: -560,
+            z: 50,
+            image: "Mark.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
+
+
+        {
+            x: -1450,
+            z: -1450,
+            image: "Basu.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
 
         // do not delete the following two closing brackets
     ]
