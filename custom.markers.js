@@ -252,7 +252,7 @@ UnminedCustomMarkers = {
             x: 100,
             z: -460,
             image: "mud.png",
-            imageAnchor: [0.5, 1],
+            imageAnchor: [1, 1],
             imageScale: 0.4,
  
        },        
@@ -265,8 +265,96 @@ UnminedCustomMarkers = {
             imageScale: 0.4,
  
        },        
-               
 
+      {
+            x: 130,
+            z: -480,
+            image: "mushroom.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },        
+      {
+            x: 130,
+            z: -440,
+            image: "wart.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },        
+      {
+            x: 130,
+            z: -220,
+            image: "sheep.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },        
+  
+      {
+            x: 130,
+            z: -195,
+            image: "cactus.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },          
+       
+      {
+            x: 130,
+            z: -170,
+            image: "iron.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },            
+
+      {
+            x: 6870,
+            z: 1550,
+            image: "witch.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },            
+       
+      {
+            x: 8200,
+            z: 600,
+            image: "guardian.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },                   
+
+      {
+            x: 8200,
+            z: 1000,
+            image: "mooshroom.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },                   
+
+      {
+            x: 180,
+            z: -510,
+            image: "melon.png",
+            imageAnchor: [1, 1],
+            imageScale: 0.4,
+ 
+       },                   
+             {
+            x: 180,
+            z: -510,
+            image: "pumpkin.png",
+            imageAnchor: [0, 1],
+            imageScale: 0.4,
+ 
+       },                   
+       
+       
+       
         // do not delete the following two closing brackets
     ]
 }
