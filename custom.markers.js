@@ -147,6 +147,17 @@ UnminedCustomMarkers = {
             imageScale: 0.5,
  
         },
+        
+        {
+            x: 190,
+            z: -605,
+            image: "gold.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
+
+        
 
         // do not delete the following two closing brackets
     ]
