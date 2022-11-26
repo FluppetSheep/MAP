@@ -128,6 +128,26 @@ UnminedCustomMarkers = {
  
         },
 
+
+        {
+            x: -740,
+            z: -460,
+            image: "Preefreea.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
+
+
+        {
+            x: -670,
+            z: -184,
+            image: "Ransomn.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+ 
+        },
+
         // do not delete the following two closing brackets
     ]
 }
