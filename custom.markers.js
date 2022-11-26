@@ -159,12 +159,41 @@ UnminedCustomMarkers = {
 
         {
             x: 190,
-            z: -580,
+            z: -570,
             image: "dripstone.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.4,
  
        },
+
+        {
+            x: 190,
+            z: -550,
+            image: "stone.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },
+       
+        {
+            x: 190,
+            z: -530,
+            image: "chorus.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },       
+
+
+        {
+            x: 110,
+            z: -600,
+            image: "bonemeal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },       
+
 
         
 
