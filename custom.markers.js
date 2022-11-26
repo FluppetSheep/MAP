@@ -352,7 +352,22 @@ UnminedCustomMarkers = {
             imageScale: 0.4,
  
        },                   
-       
+          {
+            x: 1740,
+            z: 126,
+            image: "ice.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },                   
+       {
+            x: 590,
+            z: 512,
+            image: "fish.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },   
        
        
         // do not delete the following two closing brackets
