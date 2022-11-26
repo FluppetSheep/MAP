@@ -164,7 +164,7 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 1],
             imageScale: 0.4,
  
-
+       },
 
         
 
