@@ -193,6 +193,34 @@ UnminedCustomMarkers = {
             imageScale: 0.4,
  
        },       
+       
+       
+      {
+            x: 150,
+            z: -550,
+            image: "bamboo.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },       
+
+       
+      {
+            x: 130,
+            z: -520,
+            image: "sugar.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },       
+     {
+            x: 100,
+            z: -525,
+            image: "potion.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },       
 
 
         
