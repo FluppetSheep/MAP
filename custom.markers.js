@@ -213,7 +213,8 @@ UnminedCustomMarkers = {
             imageScale: 0.4,
  
        },       
-     {
+
+{
             x: 100,
             z: -525,
             image: "potion.png",
@@ -222,8 +223,49 @@ UnminedCustomMarkers = {
  
        },       
 
+{
+            x: 175,
+            z: -470,
+            image: "skulk.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },       
+{
+            x: 160,
+            z: -510,
+            image: "villager.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },       
+{
+            x: 100,
+            z: -480,
+            image: "lava.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },       
+       
+      {
+            x: 100,
+            z: -460,
+            image: "mud.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.4,
+ 
+       },        
 
-        
+      {
+            x: 100,
+            z: -460,
+            image: "clay.png",
+            imageAnchor: [0, 1],
+            imageScale: 0.4,
+ 
+       },        
+               
 
         // do not delete the following two closing brackets
     ]
