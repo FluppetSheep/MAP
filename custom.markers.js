@@ -367,7 +367,16 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 1],
             imageScale: 0.4,
  
-       },   
+       },  
+
+        {
+            x: 450,
+            z: 350,
+            image: "Coyo.png",
+            imageAnchor: [0, 0],
+            imageScale: 0.5,
+ 
+        },
        
        
         // do not delete the following two closing brackets
