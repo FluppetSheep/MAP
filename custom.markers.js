@@ -328,8 +328,8 @@ UnminedCustomMarkers = {
        },                   
 
       {
-            x: 8200,
-            z: 1000,
+            x: 8282,
+            z: 1029,
             image: "mooshroom.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.4,
