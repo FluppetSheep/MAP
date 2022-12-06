@@ -377,6 +377,16 @@ UnminedCustomMarkers = {
             imageScale: 0.5,
  
         },
+
+
+        {
+            x: 304,
+            z: -133,
+            image: "drowned.png",
+            imageAnchor: [0, 0],
+            imageScale: 0.5,
+ 
+        },
        
        
         // do not delete the following two closing brackets
