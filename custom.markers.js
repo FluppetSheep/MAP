@@ -109,25 +109,6 @@ UnminedCustomMarkers = {
  
         },
 
-        {
-            x: -560,
-            z: 50,
-            image: "Mark.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
- 
-        },
-
-
-        {
-            x: -1450,
-            z: -1450,
-            image: "Basu.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
- 
-        },
-
 
         {
             x: -740,
